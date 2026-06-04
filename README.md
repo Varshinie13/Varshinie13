@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&lines=Transforming+Raw+Data+into+Strategic+Insights+%F0%9F%93%8A;Building+Dashboards+that+Tell+Stories+%F0%9F%93%88;SQL+%7C+Python+%7C+Tableau+%7C+Power+BI+%7C+Excel+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Transforming+Raw+Data+into+Strategic+Insights+%F0%9F%93%8A;Building+Dashboards+that+Tell+Stories+%F0%9F%93%88;SQL+%7C+Python+%7C+Tableau+%7C+Power+BI+%7C+Excel+%E2%9C%A8)](https://git.io/typing-svg)
 
 <br/>
 
@@ -86,7 +86,7 @@ varshinie = {
 
 ### 🔹 [AI Job Market Trends 2022–2026](https://github.com/Varshinie13/SQL-Tableau-Project_-AI_Job_Market_Trends---2022--2026)
 > **SQL + Tableau** · End-to-end analytics pipeline with Stored Procedures, Triggers & Functions → Interactive Tableau Dashboard
-> 
+>
 > `SQL` `Tableau` `Stored Procedures` `Data Pipeline` `Dashboard`
 
 ---
@@ -128,16 +128,17 @@ varshinie = {
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Varshinie13&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshinie13&layout=compact&theme=tokyonight&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" width="41%" />
+![Varshinie's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Varshinie13&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1f3a5f&hide_border=true&custom_title=Contribution%20Activity)
 
-<br/><br/>
+<br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Varshinie13&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" width="55%" />
+| 📁 Public Repos | ⭐ Total Stars | 👥 Followers | 🌐 Projects Live |
+|:--------------:|:------------:|:-----------:|:----------------:|
+| 12 | Growing | 3 | 6 Dashboards |
 
 </div>
 
@@ -147,13 +148,13 @@ varshinie = {
 
 <div align="center">
 
-```
-📘  Advanced Pandas & NumPy     →   Data wrangling at scale
-📊  Seaborn & Matplotlib        →   Publication-quality visualizations  
-📐  Statistics for Analytics    →   Hypothesis testing & regression
-🗃️  Advanced SQL                →   Window functions, CTEs, optimization
-🤖  Python for EDA              →   Full exploratory analysis pipelines
-```
+| Skill | Focus Area | Status |
+|:------|:-----------|:------:|
+| 📘 Advanced Pandas & NumPy | Data wrangling at scale | 🔄 In Progress |
+| 📊 Seaborn & Matplotlib | Publication-quality visualizations | 🔄 In Progress |
+| 📐 Statistics for Analytics | Hypothesis testing & regression | 🔄 In Progress |
+| 🗃️ Advanced SQL | Window functions, CTEs, optimization | 🔄 In Progress |
+| 🤖 Python for EDA | Full exploratory analysis pipelines | 🔜 Coming Soon |
 
 </div>
 
@@ -165,6 +166,8 @@ varshinie = {
 
 I'm actively looking for **Data Analyst** opportunities and love collaborating on data projects!
 
+<br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Varshinie_Sivakumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varshinie-sivakumar)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://varshnie-portfolio-dataanalyst.lovable.app/)
 [![Email](https://img.shields.io/badge/Open_To-Opportunities-2ea44f?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/varshinie-sivakumar)
@@ -175,10 +178,12 @@ I'm actively looking for **Data Analyst** opportunities and love collaborating o
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&fontSize=14&fontColor=a8d8ea&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 *"Data is not just numbers — it's insight waiting to be found."*
 
 </div>
+
+
 
 
